@@ -1,4 +1,7 @@
-venv/
 __pycache__/
 *.pyc
+*.db
+.venv/
+venv/
 .env
+drain3.ini
